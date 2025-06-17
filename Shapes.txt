@@ -1,0 +1,9 @@
+5 4 7 2 3 4 5 7
+area of rectangle is20
+perimeter of rectangle is18
+area of Square is25
+perimeter of Square is20
+area of Trapezium is8.56729e+123
+perimeter of Trapezium is-3.70239e+62
+area of circle is153.86
+perimeter of circle is43.96
