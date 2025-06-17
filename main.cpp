@@ -37,7 +37,7 @@ int main()
 	Shapes shape{ length,breadth,radius,a,b,c,d,height };
 	outShapeFile << "Rectangle:" << endl << "		Length: " << length << endl << "		Breadth: " << breadth << endl <<
 		"		Area: " << shape.getRectangleArea() << endl << "		Perimeter: " << shape.getRectanglePeri() << endl;
-	outShapeFile << "Square:" << endl << "		Length: " << length << endl << "		Breadth: " << breadth << endl <<
+	outShapeFile << "Square:" << endl << "		Length: " << length  <<  endl <<
 		"		Area: " << shape.getSquareArea() << endl << "		Perimeter: " << shape.getSquarePeri() << endl;
 	outShapeFile << "Trapezium:" << endl << "		Side a: " << a << endl << "		Side b: " << b << endl << "		Side c: "
 		<< c << endl << "		Side d: " << d << endl << "		Height: " << height << endl <<

@@ -3,7 +3,7 @@ length: 2
 Breadth: 3
 Radius: 4
 Sides(a,b,c,d) of Trapezium: 1 2 3 4 
-Height of Trapezium: 4
+Height of Trapezium: 5
 Rectangle:
 		Length: 2
 		Breadth: 3
@@ -11,7 +11,6 @@ Rectangle:
 		Perimeter: 10
 Square:
 		Length: 2
-		Breadth: 3
 		Area: 4
 		Perimeter: 8
 Trapezium:
@@ -19,8 +18,8 @@ Trapezium:
 		Side b: 2
 		Side c: 3
 		Side d: 4
-		Height: 4
-		Area: 6
+		Height: 5
+		Area: 7.5
 		Perimeter: 10
 Circle:
 		Radius: 4
