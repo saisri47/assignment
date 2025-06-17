@@ -2,16 +2,21 @@
 #include "Shapes.h"
 #define pi 3.14
 using namespace std;
-Shapes::Shapes(double l, double b, double r, double s1, double s2, double s3, double s4, double h)
+Shapes::Shapes(double l, double br, double r, double s1, double s2, double s3, double s4, double h)
 {
 	length = l;
-	breadth = b;
+	breadth = br;
 	radius = r;
+	a = s1;
+	b = s2;
+	c = s3;
+	d = s4;
+	height = h;
 }
-void Shapes::setRectangle(double l, double b)
+void Shapes::setRectangle(double l, double br)
 {
 	length = l;
-	breadth = b;
+	breadth = br;
 }
 void Shapes::setSquare(double l)
 {

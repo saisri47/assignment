@@ -1,9 +1,28 @@
-5 4 7 2 3 4 5 7
-area of rectangle is20
-perimeter of rectangle is18
-area of Square is25
-perimeter of Square is20
-area of Trapezium is8.56729e+123
-perimeter of Trapezium is-3.70239e+62
-area of circle is153.86
-perimeter of circle is43.96
+Input Data: 
+length: 2
+Breadth: 3
+Radius: 4
+Sides(a,b,c,d) of Trapezium: 1 2 3 4 
+Height of Trapezium: 4
+Rectangle:
+		Length: 2
+		Breadth: 3
+		Area: 6
+		Perimeter: 10
+Square:
+		Length: 2
+		Breadth: 3
+		Area: 4
+		Perimeter: 8
+Trapezium:
+		Side a: 1
+		Side b: 2
+		Side c: 3
+		Side d: 4
+		Height: 4
+		Area: 6
+		Perimeter: 10
+Circle:
+		Radius: 4
+		Area: 50.24
+		Perimeter: 25.12
